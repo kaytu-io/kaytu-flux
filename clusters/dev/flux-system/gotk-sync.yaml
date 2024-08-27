@@ -7,12 +7,11 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
-  recurseSubmodules: true
   ref:
     branch: main
   secretRef:
     name: flux-system
-  url: ssh://git@github.com/kaytu-io/kaytu-flux.git
+  url: ssh://git@github.com/adorigi/kaytu-flux
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
