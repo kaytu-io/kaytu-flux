@@ -20,7 +20,7 @@ spec:
   timeout: 15m
   chart:
     spec:
-      chart: fluent-bit
+      chart: fluent-operator
       sourceRef:
         kind: HelmRepository
         name: fluent
