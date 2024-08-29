@@ -13,4 +13,4 @@ resources:
   - opensearch.yaml
   - vault.yaml
   - dex-operator.yaml
-  - fluent-operator.yaml
+  # - fluent-operator.yaml
