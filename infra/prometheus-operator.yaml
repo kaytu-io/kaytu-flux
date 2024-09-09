@@ -14,8 +14,8 @@ spec:
 ---
 apiVersion: v1
 data:
-  admin-password: a2F5dHUtZ2YtcGFzcwo=
-  admin-user: a2F5dHUtZ2YK
+  admin-password: a2F5dHUtZ2YtcGFzcw==
+  admin-user: a2F5dHUtZ2Y=
   ldap-toml: ""
 kind: Secret
 metadata:
